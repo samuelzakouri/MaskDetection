@@ -1,2 +1,2 @@
 # MaskDetection
-MaskDetection using Python and OpenCV
+Mask Detection 
